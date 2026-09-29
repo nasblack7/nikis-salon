@@ -1,8 +1,8 @@
 {
   "version": "1.0.1",
   "url": "https://github.com/nasblack7/nikis-salon/releases/download/1.0.1/niki-update-1.0.1.zip",
-  "sha256": "0103cfb28c67f6b3f8c87a2ed0f9b734a9e53fed980b2bca569fbfc9ae465d2c",
-  "signature": "3a0f09213fe35215d3942ebe7fc6c2cb558c7b0ad2da191e99c0cfb28b1257ff1b3f2dc225b1e4626c9f7dd156fe1adc00f2a641cdb700f034a1becb28948805",
-  "released_at": "2026-09-29T14:48:24",
-  "notes": "UI fixes for 1366x768, logo upload via file dialog, source dropdown, spelling fixes, no console popups, login page footer reduced to logo + copyright, updates enabled on fresh installs"
+  "sha256": "f2edb286c5695b484678da449a7b80cdef5a5fd31032bbe19fccd15882db6083",
+  "signature": "e966fe6236158b0d12ce9cf6969f1093072c081aafad88be791ca8542799f78d8038037b23fe50b265eedfa3d5a8db3660a772e2ec801d045e8a6cb51ecfa60f",
+  "released_at": "2026-09-29T15:58:24",
+  "notes": "UI fixes for 1366x768; logo upload via file dialog; source dropdown; spelling fixes; no console popups; login page footer reduced to logo + copyright; updates enabled on fresh installs; live install progress, maintenance redirect and automatic restart; update check runs automatically and announces itself at login; internet connectivity checked in the background and update checks skipped while offline"
 }
