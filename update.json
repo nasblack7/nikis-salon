@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.0.1.zip",
-  "sha256": "6662dcf3ec8b3ebcac929739e230fcfcce32799185713fd4b92924bb3d81129c",
-  "signature": "ea06a8949014fa959c101deb19e609979dbb1ab85caa22afb252a8d93665daa719c1e8ea45155afde05f7af7d204d6b40d665731e8de9f9eb106f3ab55c5a006",
-  "released_at": "2026-09-29T16:54:20",
-  "notes": "UI 1366x768, λογότυπο, κρυφές κονσόλες, ασφαλής εγκατάσταση"
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.0.2.zip",
+  "sha256": "7ab2c24153479834aa8e512deae61a5efff0afaafcc9e5ec2ab761eb95bcec92",
+  "signature": "daa3f3796e6b9e4446207d26054aba1704b930294d23407d8dc08a4a3296078758a28712af999f5dc55ae0ccc6e67019ebf03071909930c89e3f22150895df06",
+  "released_at": "2026-09-29T22:33:15",
+  "notes": "Μηνύματα που κλείνουν μόνα τους, λογότυπο που αλλάζει πάντα, τιμές σε ροζ, εισαγωγή/εξαγωγή πελατών από Excel, κανένα 500 στις ενημερώσεις"
 }
