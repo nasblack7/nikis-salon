@@ -1,8 +1,8 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/nasblack7/nikis-salon/releases/download/1.0.1/niki-update-1.0.1.zip",
-  "sha256": "75c23eb6225c96ae161db55307bdf981aabb121cd83d6386619914081792a1ad",
-  "signature": "46a44922d6f1f1d08d7a914600f6c39fa81af3ffde5616195b8aef1f4562f6937364efcbc69870b3e833202e88c724d0e5cf95245e985f651357b8ee91338904",
-  "released_at": "2026-09-29T16:13:33",
-  "notes": "UI fixes for 1366x768; logo upload via file dialog; source dropdown; spelling fixes; no console popups; login page footer reduced to logo + copyright; updates enabled on fresh installs; live install progress, maintenance redirect and automatic restart; update check runs automatically and announces itself at login; internet connectivity checked in the background; IMPORTANT: after installing this version for the first time, restart the salon PC once so it takes effect"
+  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.0.1.zip",
+  "sha256": "6662dcf3ec8b3ebcac929739e230fcfcce32799185713fd4b92924bb3d81129c",
+  "signature": "ea06a8949014fa959c101deb19e609979dbb1ab85caa22afb252a8d93665daa719c1e8ea45155afde05f7af7d204d6b40d665731e8de9f9eb106f3ab55c5a006",
+  "released_at": "2026-09-29T16:54:20",
+  "notes": "UI 1366x768, λογότυπο, κρυφές κονσόλες, ασφαλής εγκατάσταση"
 }
