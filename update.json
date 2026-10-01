@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.0.11.zip",
-  "sha256": "efa011b1497850e625cc9b214ecc3e3584936680825286758c39811006d94d45",
-  "signature": "2f3302beacc98579b7058f2e0dbebdc82abdf7a2895bb4d7c41cdfb3c2a61877bf28bf3ae25e41e3c4ad1fdd7f1cf8134233a4ccac45514446a97cb8565c8403",
-  "released_at": "2026-10-01T10:14:24",
+  "version": "1.0.12",
+  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.0.12.zip",
+  "sha256": "48dc0ef5398c018238dae33393487f21109410ad5a7adf4e84dd4f17af2ad49e",
+  "signature": "5edba6e8d3dfb8b8875b9cb05a3268cc8d6eb4b833e7f95c848debcee3ff402e6256303770222fd9d94cdd0a1854ea65d8c1dc180ce1ed091be22bc7453c1c0f",
+  "released_at": "2026-10-01T15:31:06",
   "notes": "",
   "urls": [
-    "https://github.com/nasblack7/nikis-salon/releases/download/1.0.11"
+    "https://github.com/nasblack7/nikis-salon/releases/download/1.0.12"
   ]
 }
