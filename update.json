@@ -1,8 +1,8 @@
 {
   "version": "1.2",
   "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.2.zip",
-  "sha256": "8a728fab3be34d9289f021bbb464d2ee177f3a1fc30d0600702cd9eec7e5eefc",
-  "signature": "e538c0b0329d3aae6776e3395ed4d0fbf82cbfc78f20c30bb2c519e2d776ea67ba9d63dafd982b7968851b55dfcbabb7e8c50a272fc6afb48a35e8012d88aa09",
-  "released_at": "2026-10-02T19:57:52",
-  "notes": "v1.2: License enforcement ON by default (requires serial). Pet archive/restore. Fixed version comparison (1.1 > 1.0.15). Removed Επείγον badge. Responsive tables. Enhanced backup pruning. Source minification for security modules."
+  "sha256": "c01e19c24b5543f416d4d745d5b8902bd1763a93870192367cbd81386546cfd5",
+  "signature": "55a71eb00aa0e2b79a31fc34c5ddfb3af313fc97514f22fcc89e3f594b2193d8d2ed8348a9acbb3041f5849c150ef08bc2c5d3312496a1fe0bbf80b11b678601",
+  "released_at": "2026-10-02T20:40:06",
+  "notes": "v1.2: License enforcement ON by default (requires serial). Pet archive/restore. Fixed version comparison (1.2 > 1.1). Removed Επείγον badge. Responsive tables. Enhanced backup pruning. Source minification for security modules."
 }
