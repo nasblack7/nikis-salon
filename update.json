@@ -1,8 +1,8 @@
 {
-  "version": "1.1",
-  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.1.zip",
-  "sha256": "c4b5d9854b43e8eb04eaa7270bd93095608ac7d938416ddda0e3917d1decd221",
-  "signature": "ebbed235bd22247fb05faaa1d2021abd1b3dd22b189b870844aa4ca97f66296661344cbddf3dd72b62d950f79b048d256126d4c28c47173a6fcf65deb0a32c09",
-  "released_at": "2026-10-02T18:09:30",
-  "notes": "Άδεια χρήσης συνδεδεμένη με τον υπολογιστή (υπογραφή Ed25519, χωρίς internet) και σελίδα άδειας ανοιχτή χωρίς σύνδεση. Διόρθωση σύγκρισης εκδόσεων: η 1.1 εμφανίζεται πλέον ως διαθέσιμη σε μηχάνημα που τρέχει την 1.0.15."
+  "version": "1.2",
+  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.2.zip",
+  "sha256": "8a728fab3be34d9289f021bbb464d2ee177f3a1fc30d0600702cd9eec7e5eefc",
+  "signature": "e538c0b0329d3aae6776e3395ed4d0fbf82cbfc78f20c30bb2c519e2d776ea67ba9d63dafd982b7968851b55dfcbabb7e8c50a272fc6afb48a35e8012d88aa09",
+  "released_at": "2026-10-02T19:57:52",
+  "notes": "v1.2: License enforcement ON by default (requires serial). Pet archive/restore. Fixed version comparison (1.1 > 1.0.15). Removed Επείγον badge. Responsive tables. Enhanced backup pruning. Source minification for security modules."
 }
