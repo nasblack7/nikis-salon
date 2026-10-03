@@ -1,8 +1,8 @@
 {
   "version": "1.3",
   "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.3.zip",
-  "sha256": "7affad63d845de3807d9e912bc153e7b489fa8cf4eff57f69f075e0c91fb00ca",
-  "signature": "0a463dc0bfe58e68661addd52effe65defbc550b9c8675774f33d0e2ca24dc1156df5bce023459960e4315f5a2c9bb5ae922b3ba3694bcf229731f5304e92905",
-  "released_at": "2026-10-03T14:11:49",
-  "notes": "v1.3: Fixed salon icon never saving (broken image on every page) + added /salon-icon serving route; fixed favicon & service-worker requests silently swallowing the post-update confirmation; settings card layout; SMTP settings in-app with test email; salon name at first-time setup and in the activation block; expense autocomplete tags; per-pet service quantity; wider services/expenses lists; serial card shows only the serial."
+  "sha256": "27ce7ffe3e7893b48bbffdedb473c6e1855e97605b7380e92fdd7c3ce7a0e80b",
+  "signature": "3f7616d2e04a969048aa2b48e1c1434a7a2a66310b694921e35fae24bb33ff2307820afc0837b572808ac9f7b83479f8f5f0b03e9e3ca299d83e4247b8616f08",
+  "released_at": "2026-10-03T19:40:22",
+  "notes": "v1.3: FIXED missing pets.is_archived/users.is_archived migration that broke every update from 1.1/1.2; salon icon saving + serving; favicon/service-worker no longer swallow the post-update confirmation; settings layout; SMTP settings with test email; salon name at first-time setup and in the activation block; expense autocomplete; per-pet service quantity; wider lists."
 }
