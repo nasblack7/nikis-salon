@@ -1,8 +1,8 @@
 {
   "version": "1.4",
   "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.4.zip",
-  "sha256": "737cf45ab6a8216925c66b9dcb1ae8ffd1cfa82565c1dae13d9ffbbd8d1dfc9d",
-  "signature": "2803a394ec5122648086e739a1b4ccb16d43f1449899b4e7c6d732e6de106b18b8e2ef2c11371b8451c2dd082694fc572f180b78e88bdb340cce09045cfa6c07",
-  "released_at": "2026-10-03T21:34:51",
-  "notes": "v1.4: Fixed per-pet service quantity reverting to all-pets when another service is selected; double-booking confirm now fills the chosen slot; pet delete vs archive now follows revenue history (completed appointments); no more false 'update available' notice after updating; notification page points to Settings instead of .env; clearer 'Fixed expenses' label; automatic restart after installing on macOS/Linux; quiet waitress queue-depth notices. Includes the v1.3 fixes (salon icon saving, missing pets.is_archived migration, post-update confirmation)."
+  "sha256": "a6c3ae1cf5d7c7b9281fa080b311d1e72fe9b07dc944bff9a8deb4459208fbb9",
+  "signature": "ae4772410ae9653d25cf924560ab98ae17e4a810cd304dab3ae3a18fde0f6e4299055417dc4fead5ceac440873529cccb45dfae28493327c1c8ed10e1eff230c",
+  "released_at": "2026-10-03T22:12:22",
+  "notes": "v1.4: Fixed per-pet service quantity reverting to all-pets when another service is selected; double-booking confirm now fills the chosen slot; pet delete vs archive now follows revenue history, and deleting a pet no longer errors out; no more false 'update available' notice after updating; appointment services show 'χωρίς όνομα' instead of 'None'; archive confirmation rewritten and states that revenue is unaffected; notification page points to Settings instead of .env; clearer 'Fixed expenses' label; automatic restart after installing on macOS/Linux; quiet waitress queue-depth notices. Includes the v1.3 fixes (salon icon saving, missing pets.is_archived migration, post-update confirmation)."
 }
