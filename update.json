@@ -1,8 +1,8 @@
 {
   "version": "1.4",
   "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.4.zip",
-  "sha256": "a6c3ae1cf5d7c7b9281fa080b311d1e72fe9b07dc944bff9a8deb4459208fbb9",
-  "signature": "ae4772410ae9653d25cf924560ab98ae17e4a810cd304dab3ae3a18fde0f6e4299055417dc4fead5ceac440873529cccb45dfae28493327c1c8ed10e1eff230c",
-  "released_at": "2026-10-03T22:12:22",
-  "notes": "v1.4: Fixed per-pet service quantity reverting to all-pets when another service is selected; double-booking confirm now fills the chosen slot; pet delete vs archive now follows revenue history, and deleting a pet no longer errors out; no more false 'update available' notice after updating; appointment services show 'χωρίς όνομα' instead of 'None'; archive confirmation rewritten and states that revenue is unaffected; notification page points to Settings instead of .env; clearer 'Fixed expenses' label; automatic restart after installing on macOS/Linux; quiet waitress queue-depth notices. Includes the v1.3 fixes (salon icon saving, missing pets.is_archived migration, post-update confirmation)."
+  "sha256": "a62ce091ddafe359006a188f6564dcff2043e2576bb4e710813c7a988ead8c4a",
+  "signature": "999b446cac8a45cbf351fde2c8f7a94b3e1d48c45c5a0a12b5ce7e5b90be0ccc89c56c28e089891b6908110a62300b83bb97f24ab61ea1878eb7549fd375460d",
+  "released_at": "2026-10-04T12:46:31",
+  "notes": "v1.4: after installing, the app waits for the new version and returns by itself — no manual server start; fresh install needs nothing from you: INSTALL.bat brings its own pinned CPython 3.13.16, verified by SHA-256; port 8080 is checked before install with a plain-language hint; archive/delete of a pet now follows its REVENUE history; per-pet service quantity is kept when another service is picked; expenses renamed to Σταθερά έξοδα; OK on a double-booking fills the time slot; no false \"update available\" notice after updating; waitress queue noise suppressed; unnamed pets and services read χωρίς όνομα instead of None; licence status shown in Greek."
 }
