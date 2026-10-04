@@ -1,8 +1,8 @@
 {
-  "version": "1.4",
-  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.4.zip",
-  "sha256": "a62ce091ddafe359006a188f6564dcff2043e2576bb4e710813c7a988ead8c4a",
-  "signature": "999b446cac8a45cbf351fde2c8f7a94b3e1d48c45c5a0a12b5ce7e5b90be0ccc89c56c28e089891b6908110a62300b83bb97f24ab61ea1878eb7549fd375460d",
-  "released_at": "2026-10-04T12:46:31",
-  "notes": "v1.4: after installing, the app waits for the new version and returns by itself — no manual server start; fresh install needs nothing from you: INSTALL.bat brings its own pinned CPython 3.13.16, verified by SHA-256; port 8080 is checked before install with a plain-language hint; archive/delete of a pet now follows its REVENUE history; per-pet service quantity is kept when another service is picked; expenses renamed to Σταθερά έξοδα; OK on a double-booking fills the time slot; no false \"update available\" notice after updating; waitress queue noise suppressed; unnamed pets and services read χωρίς όνομα instead of None; licence status shown in Greek."
+  "version": "1.5",
+  "url": "https://raw.githubusercontent.com/nasblack7/nikis-salon/main/niki-update-1.5.zip",
+  "sha256": "f20a3485d35e8fff4ccc5ba59e06d2c88304dac0a25d08cbf7da6b0c05776a37",
+  "signature": "6414197f198b6d7c2ecef75e4d185608a1c50709e7acff147d2117184bd5fe364bfb47c1653531546ff5573bb862e6817e7e38e560b83e69bfe0e0acf7803b04",
+  "released_at": "2026-10-04T13:22:14",
+  "notes": "Έλεγχος ακεραιότητας: η εφαρμογή ελέγχει σε κάθε εκκίνηση ότι τα αρχεία της δεν έχουν πειραχτεί, μέσω του υπογραφμένου manifest. Οι βελτιώσεις της 1.4 παραμένουν."
 }
